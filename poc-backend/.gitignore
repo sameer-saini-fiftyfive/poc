@@ -1,0 +1,18 @@
+# General
+.vim
+.DS_Store
+.idea
+.vs
+obj
+
+
+# Python
+__pycache__
+venv
+env
+.mypy_cache
+.pytest_cache
+.python-version
+
+# Django
+*.sqlite3
